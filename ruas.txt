@@ -1,0 +1,14 @@
+
+#EXTM3U
+#EXTINF:-1EarthCam - Dublin Cam	      
+https://ectvradio.earthcam.com/earthcamradio/meditation/chunklist_w831724759.m3u8	
+#EXTINF:-1israel/jerusalem/?cam=jerusalem
+https://videos-3.earthcam.com/fecnetwork/7949.flv/chunklist_w1277859546.m3u8?t=IbjqQPqQhj6%2FAu7b5bDdwCsnlHgma8T1Am29hTlhIHpiZQVulSDdqnS5QPX8t1qS
+#EXTINF:-1usa/nevada/lasvegas/bellagio/?cam=bellagio
+https://ectvradio.earthcam.com/earthcamradio/meditation/chunklist_w736744282.m3u8
+#EXTINF:-1Webcam Venice	
+https://hd-auth.skylinewebcams.com/live.m3u8?a=9h28i517cqk19j4bfu6g7rbhk0
+#EXTINF:-1Webcam Venice - Rialto Bridge
+https://hd-auth.skylinewebcams.com/live.m3u8?a=9h28i517cqk19j4bfu6g7rbhk0
+#EXTINF:-1Webcam Venice 	
+https://hd-auth.skylinewebcams.com/live.m3u8?a=9h28i517cqk19j4bfu6g7rbhk0
